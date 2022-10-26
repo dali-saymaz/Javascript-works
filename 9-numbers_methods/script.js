@@ -16,7 +16,7 @@ parseInt("a10");        // NaN
 
 sonuc = isNaN("10"); //eğer NaN yani sayısal olmayan bir değer ise bu durumda true sonucunu gönderir.
 
-let sayi = 20.12355467;
+let sayi = 1512355467;
 
 sonuc = sayi.toPrecision(5);//15.123 toFixed() farkli olarak sayinin basindan itibaren alir
 sonuc = sayi.toFixed(5);//15.12345  yani virgulden sonraki basamak sayisini belirler. toFixed() metodu verilen parametreye göre veriyi yuvarlar.

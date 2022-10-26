@@ -2,7 +2,9 @@ let ogrenciler = ["esra", "umit", "nizami"];
 
 // array to string
 sonuc = ogrenciler.toString(); // butun nesneleri birlestirir
-sonuc = ogrenciler.join(" "); // butun nesneler arasinda bosluk birakarak birlestirir.
+
+sonuc = ogrenciler.join(" "); // butun nesneler arasinda bosluk birakarak birlestirir. yeni bir array olusturur.
+
 sonuc = ogrenciler.join("-"); // aralara tire koyarak birlestirir.
 
 // eleman silme
@@ -10,7 +12,8 @@ sonuc = ogrenciler.pop();       // son eleman silinir ve silinen eleman geri dö
 sonuc = ogrenciler.shift();     // ilk eleman silinir.
 
 // eleman ekleme
-sonuc = ogrenciler.push("dali");    // dizinin sonuna eleman eklenir.
+let ogrenciler2 = ["esra", "umit", "nizami"];
+sonuc = ogrenciler2.push("dali");    // dizinin sonuna eleman eklenir.
 sonuc = ogrenciler.unshift("samet"); // dizinin başına yeni değerler eklemek için kullanıl
 
 //:..............

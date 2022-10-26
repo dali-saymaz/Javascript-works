@@ -6,7 +6,7 @@ for (let tahminSayisi = 1; tahminSayisi <= toplamhak ; tahminSayisi++) { //kulla
     if (saklanilanVagon == tahmin) {
         alert(`Tebrikler Süpheliyi ${tahminSayisi} defada hangi vagonda oldugunu bildiniz`);
         alert(`puan: ${100-(25)*(tahminSayisi)}`)
-        break;
+   
     } else if (saklanilanVagon > tahmin) {
         alert("Daha Büyük bir sayı giriniz!! Şüpheli arka vagonda");
     } else {

@@ -4,7 +4,7 @@ let ogrenciler2 = "umit"
 let ogrenciler3 = "nizami"
 
 let ogrenciler = ["esra", "umit", "nizami"];
-let dogumTarihi = [2000, 1991, 1987];
+let dogumTarihi = [2001, 1991, 1987];
 let renkler = ["gold", "siyah", "beyaz"];
 
 let ogrenci1 = ["esra", 2000, "gold"];
