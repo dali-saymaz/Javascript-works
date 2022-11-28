@@ -26,7 +26,7 @@
 // //dali.style.display='none';
 
 
-// 4 How to add and delete HTML elements
+// //4 How to add and delete HTML elements
 // let dali;
 // document.getElementById('lorem1').innerText='ben bu isi ogrendim gibi';
 // document.getElementById('lorem2').innerText='<b>ben bu isi ogrendim gibi</b>';

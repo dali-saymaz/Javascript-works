@@ -6,7 +6,7 @@ function kelimeYazdir(kelime, adet) {
     }
 }
 
- kelimeYazdir("merhaba", 2);
+ kelimeYazdir("merhaba", 5);
 
 // 2- Dikdörtgenin alan ve çevresini hesaplayan fonksiyonu yazınız.
 
